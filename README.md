@@ -1,2 +1,3 @@
 # testing-framework
- custom testing framework for javascript and html
+
+A custom testing framework for Javascript and HTML.
